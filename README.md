@@ -46,8 +46,7 @@ Done! final result .
 <img src="finalview.png" alt="How to Run as Administrator" width="600">
 </p>
 
-⚠️ Disclaimer
-This script is provided as-is. Always back up important data before running any system utility. The developer is not responsible for any data loss.
+
 
 ❤️ Credits & Contribution
 Developed by Aaditya Kumar Sah. Contributions, bug reports, and feature suggestions are welcome!
