@@ -36,7 +36,7 @@
 </table>
 
 🛠️ How to Use
-Download: Grab the .bat file from the latest Release.
+Download: "Grab the .bat file " from the top file section .
 
 Run as Administrator: Right-click the file and select "Run as administrator".
 
