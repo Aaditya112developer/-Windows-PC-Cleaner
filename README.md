@@ -40,10 +40,10 @@ Download: Grab the .bat file from the latest Release.
 
 Run as Administrator: Right-click the file and select "Run as administrator".
 
-Done! Follow the simple on-screen prompts to start the cleanup.
+Done! final result .
 
 <p align="center">
-<img src="https://i.imgur.com/sdm62A4.png" alt="How to Run as Administrator" width="600">
+<img src="finalview.png" alt="How to Run as Administrator" width="600">
 </p>
 
 ⚠️ Disclaimer
